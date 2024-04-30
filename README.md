@@ -1,7 +1,7 @@
 
 
 <!--타이틀 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Ghdtkq's Github%20&fontColor=F2F2F2&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Ghdtkq'sGithub%20&fontColor=F2F2F2&fontSize=60&animation=fadeIn)
 </div>
 
 <!--내용 -->
