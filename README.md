@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Welcome%20&fontColor=F2F2F2&fontSize=60&animation=fadeIn)
 
 
-![Ghdtkq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghdtkq&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghdtkq&layout=compact)
 
 
 <div>
