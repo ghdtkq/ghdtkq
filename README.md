@@ -1,10 +1,10 @@
 
 
-<!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Welcome%20&fontColor=F2F2F2&fontSize=60&animation=fadeIn)
+<!--타이틀 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Ghdtkq's Github%20&fontColor=F2F2F2&fontSize=60&animation=fadeIn)
 </div>
 
-<!--내용 부분-->
+<!--내용 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
