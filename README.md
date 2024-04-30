@@ -1,10 +1,7 @@
 
 
 <!--타이틀 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Welcome%20&fontColor=F2F2F2&fontSize=70&animation=fadeIn)
-
-Welcome  
-github
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:81DAF5&height=320&section=header&text=Welcome%20ghdtkq&fontColor=F2F2F2&fontSize=70&animation=fadeIn)
 
 
 <!--내용 -->
