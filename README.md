@@ -59,5 +59,7 @@
 
 
 <div align="center">
+  <p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghdtkq&layout=compact)
+</p>
 </div>
